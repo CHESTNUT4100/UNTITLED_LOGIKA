@@ -1,0 +1,94 @@
+.product-hamter-  {flex: 0 0 200px;background-image: url("merch-img/homak_chashka.png");    background-size: cover;border-radius: 10px; transition: 0.5s;}
+
+.product-tungston-{flex: 0 0 200px;background-image:url("merch-img/taste the tungston.png");background-size: cover;border-radius: 10px; transition: 0.5s;}
+
+
+
+.pmi-01 {flex: 0 0 200px;background-image: url("merch-img/cuplogik.png");                  background-size: cover;border-radius: 10px; transition: 0.5s;}
+.pmi-11 {flex: 0 0 200px;background-image: url("merch-img/cuplogik1.png");                 background-size: cover;border-radius: 10px; transition: 0.5s;}
+.pmi-21 {flex: 0 0 200px;background-image: url("merch-img/cuplogik2.png");                 background-size: cover;border-radius: 10px; transition: 0.5s;}
+.pmi-31 {flex: 0 0 200px;background-image: url("merch-img/cuplogik3.png");                 background-size: cover;border-radius: 10px; transition: 0.5s;}
+.pmi-41 {flex: 0 0 200px;background-image: url("merch-img/cuplogik4.png");                 background-size: cover;border-radius: 10px; transition: 0.5s;}
+.pmi-51 {flex: 0 0 200px;background-image: url("merch-img/cuplogik5.png");                 background-size: cover;border-radius: 10px; transition: 0.5s;}
+.pmi-61 {flex: 0 0 200px;background-image: url("merch-img/cuplogik6.png");                 background-size: cover;border-radius: 10px; transition: 0.5s;}
+
+.pmi-02 {flex: 0 0 200px;background-image: url("merch-img/D-cuplogik.png");                background-size: cover;border-radius: 10px; transition: 0.5s;}
+.pmi-12 {flex: 0 0 200px;background-image: url("merch-img/D-cuplogik1.png");               background-size: cover;border-radius: 10px; transition: 0.5s;}
+.pmi-22 {flex: 0 0 200px;background-image: url("merch-img/D-cuplogik2.png");               background-size: cover;border-radius: 10px; transition: 0.5s;}
+.pmi-32 {flex: 0 0 200px;background-image: url("merch-img/D-cuplogik3.png");               background-size: cover;border-radius: 10px; transition: 0.5s;}
+.pmi-42 {flex: 0 0 200px;background-image: url("merch-img/D-cuplogik4.png");               background-size: cover;border-radius: 10px; transition: 0.5s;}
+.pmi-52 {flex: 0 0 200px;background-image: url("merch-img/D-cuplogik5.png");               background-size: cover;border-radius: 10px; transition: 0.5s;}
+.pmi-62 {flex: 0 0 200px;background-image: url("merch-img/D-cuplogik6.png");               background-size: cover;border-radius: 10px; transition: 0.5s;}
+
+
+
+
+
+.psi-01 {flex: 0 0 200px;background-image: url("merch-img/shirt-colors/W-logikshirt.png"); background-size: cover;border-radius: 10px; transition: 0.5s;}
+.psi-11 {flex: 0 0 200px;background-image: url("merch-img/shirt-colors/W-logikshirt1.png");background-size: cover;border-radius: 10px; transition: 0.5s;}
+.psi-21 {flex: 0 0 200px;background-image: url("merch-img/shirt-colors/W-logikshirt2.png");background-size: cover;border-radius: 10px; transition: 0.5s;}
+.psi-31 {flex: 0 0 200px;background-image: url("merch-img/shirt-colors/W-logikshirt3.png");background-size: cover;border-radius: 10px; transition: 0.5s;}
+.psi-41 {flex: 0 0 200px;background-image: url("merch-img/shirt-colors/W-logikshirt4.png");background-size: cover;border-radius: 10px; transition: 0.5s;}
+.psi-51 {flex: 0 0 200px;background-image: url("merch-img/shirt-colors/W-logikshirt5.png");background-size: cover;border-radius: 10px; transition: 0.5s;}
+.psi-61 {flex: 0 0 200px;background-image: url("merch-img/shirt-colors/W-logikshirt6.png");background-size: cover;border-radius: 10px; transition: 0.5s;}
+
+.psi-02 {flex: 0 0 200px;background-image: url("merch-img/shirt-colors/D-logikshirt.png"); background-size: cover;border-radius: 10px; transition: 0.5s;}
+.psi-12 {flex: 0 0 200px;background-image: url("merch-img/shirt-colors/D-logikshirt1.png");background-size: cover;border-radius: 10px; transition: 0.5s;}
+.psi-22 {flex: 0 0 200px;background-image: url("merch-img/shirt-colors/D-logikshirt2.png");background-size: cover;border-radius: 10px; transition: 0.5s;}
+.psi-32 {flex: 0 0 200px;background-image: url("merch-img/shirt-colors/D-logikshirt3.png");background-size: cover;border-radius: 10px; transition: 0.5s;}
+.psi-42 {flex: 0 0 200px;background-image: url("merch-img/shirt-colors/D-logikshirt4.png");background-size: cover;border-radius: 10px; transition: 0.5s;}
+.psi-52 {flex: 0 0 200px;background-image: url("merch-img/shirt-colors/D-logikshirt5.png");background-size: cover;border-radius: 10px; transition: 0.5s;}
+.psi-62 {flex: 0 0 200px;background-image: url("merch-img/shirt-colors/D-logikshirt6.png");background-size: cover;border-radius: 10px; transition: 0.5s;}
+
+.psi-03 {flex: 0 0 200px;background-image: url("merch-img/shirt-colors/Y-logikshirt.png"); background-size: cover;border-radius: 10px; transition: 0.5s;}
+.psi-13 {flex: 0 0 200px;background-image: url("merch-img/shirt-colors/Y-logikshirt1.png");background-size: cover;border-radius: 10px; transition: 0.5s;}
+.psi-23 {flex: 0 0 200px;background-image: url("merch-img/shirt-colors/Y-logikshirt2.png");background-size: cover;border-radius: 10px; transition: 0.5s;}
+.psi-33 {flex: 0 0 200px;background-image: url("merch-img/shirt-colors/Y-logikshirt3.png");background-size: cover;border-radius: 10px; transition: 0.5s;}
+.psi-43 {flex: 0 0 200px;background-image: url("merch-img/shirt-colors/Y-logikshirt4.png");background-size: cover;border-radius: 10px; transition: 0.5s;}
+.psi-53 {flex: 0 0 200px;background-image: url("merch-img/shirt-colors/Y-logikshirt5.png");background-size: cover;border-radius: 10px; transition: 0.5s;}
+.psi-63 {flex: 0 0 200px;background-image: url("merch-img/shirt-colors/Y-logikshirt6.png");background-size: cover;border-radius: 10px; transition: 0.5s;}
+
+.psi-04 {flex: 0 0 200px;background-image: url("merch-img/shirt-colors/G-logikshirt.png"); background-size: cover;border-radius: 10px; transition: 0.5s;}
+.psi-14 {flex: 0 0 200px;background-image: url("merch-img/shirt-colors/G-logikshirt1.png");background-size: cover;border-radius: 10px; transition: 0.5s;}
+.psi-24 {flex: 0 0 200px;background-image: url("merch-img/shirt-colors/G-logikshirt2.png");background-size: cover;border-radius: 10px; transition: 0.5s;}
+.psi-34 {flex: 0 0 200px;background-image: url("merch-img/shirt-colors/G-logikshirt3.png");background-size: cover;border-radius: 10px; transition: 0.5s;}
+.psi-44 {flex: 0 0 200px;background-image: url("merch-img/shirt-colors/G-logikshirt4.png");background-size: cover;border-radius: 10px; transition: 0.5s;}
+.psi-54 {flex: 0 0 200px;background-image: url("merch-img/shirt-colors/G-logikshirt5.png");background-size: cover;border-radius: 10px; transition: 0.5s;}
+.psi-64 {flex: 0 0 200px;background-image: url("merch-img/shirt-colors/G-logikshirt6.png");background-size: cover;border-radius: 10px; transition: 0.5s;}
+
+.psi-05 {flex: 0 0 200px;background-image: url("merch-img/shirt-colors/B-logikshirt.png"); background-size: cover;border-radius: 10px; transition: 0.5s;}
+.psi-15 {flex: 0 0 200px;background-image: url("merch-img/shirt-colors/B-logikshirt1.png");background-size: cover;border-radius: 10px; transition: 0.5s;}
+.psi-25 {flex: 0 0 200px;background-image: url("merch-img/shirt-colors/B-logikshirt2.png");background-size: cover;border-radius: 10px; transition: 0.5s;}
+.psi-35 {flex: 0 0 200px;background-image: url("merch-img/shirt-colors/B-logikshirt3.png");background-size: cover;border-radius: 10px; transition: 0.5s;}
+.psi-45 {flex: 0 0 200px;background-image: url("merch-img/shirt-colors/B-logikshirt4.png");background-size: cover;border-radius: 10px; transition: 0.5s;}
+.psi-55 {flex: 0 0 200px;background-image: url("merch-img/shirt-colors/B-logikshirt5.png");background-size: cover;border-radius: 10px; transition: 0.5s;}
+.psi-65 {flex: 0 0 200px;background-image: url("merch-img/shirt-colors/B-logikshirt6.png");background-size: cover;border-radius: 10px; transition: 0.5s;}
+
+.psi-06 {flex: 0 0 200px;background-image: url("merch-img/shirt-colors/P-logikshirt.png"); background-size: cover;border-radius: 10px; transition: 0.5s;}
+.psi-16 {flex: 0 0 200px;background-image: url("merch-img/shirt-colors/P-logikshirt1.png");background-size: cover;border-radius: 10px; transition: 0.5s;}
+.psi-26 {flex: 0 0 200px;background-image: url("merch-img/shirt-colors/P-logikshirt2.png");background-size: cover;border-radius: 10px; transition: 0.5s;}
+.psi-36 {flex: 0 0 200px;background-image: url("merch-img/shirt-colors/P-logikshirt3.png");background-size: cover;border-radius: 10px; transition: 0.5s;}
+.psi-46 {flex: 0 0 200px;background-image: url("merch-img/shirt-colors/P-logikshirt4.png");background-size: cover;border-radius: 10px; transition: 0.5s;}
+.psi-56 {flex: 0 0 200px;background-image: url("merch-img/shirt-colors/P-logikshirt5.png");background-size: cover;border-radius: 10px; transition: 0.5s;}
+.psi-66 {flex: 0 0 200px;background-image: url("merch-img/shirt-colors/P-logikshirt6.png");background-size: cover;border-radius: 10px; transition: 0.5s;}
+
+.psi-07 {flex: 0 0 200px;background-image: url("merch-img/shirt-colors/R-logikshirt.png"); background-size: cover;border-radius: 10px; transition: 0.5s;}
+.psi-17 {flex: 0 0 200px;background-image: url("merch-img/shirt-colors/R-logikshirt1.png");background-size: cover;border-radius: 10px; transition: 0.5s;}
+.psi-27 {flex: 0 0 200px;background-image: url("merch-img/shirt-colors/R-logikshirt2.png");background-size: cover;border-radius: 10px; transition: 0.5s;}
+.psi-37 {flex: 0 0 200px;background-image: url("merch-img/shirt-colors/R-logikshirt3.png");background-size: cover;border-radius: 10px; transition: 0.5s;}
+.psi-47 {flex: 0 0 200px;background-image: url("merch-img/shirt-colors/R-logikshirt4.png");background-size: cover;border-radius: 10px; transition: 0.5s;}
+.psi-57 {flex: 0 0 200px;background-image: url("merch-img/shirt-colors/R-logikshirt5.png");background-size: cover;border-radius: 10px; transition: 0.5s;}
+.psi-67 {flex: 0 0 200px;background-image: url("merch-img/shirt-colors/R-logikshirt6.png");background-size: cover;border-radius: 10px; transition: 0.5s;}
+
+
+
+
+
+
+
+
+
+
+.er404 {flex: 0 0 200px;background-image: url(Screenshot_2025-09-17-22-13-23-010_com.zhiliaoapp.musically-edit.jpg);background-size: cover;}
+
+ 
